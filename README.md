@@ -5,13 +5,13 @@ This project predicts laptop prices based on hardware specifications and categor
 
 ### 🚀 Project Summary
 
-The notebook explores:
--Data Cleaning & Feature Selection
--Simple Linear Regression using CPU frequency
--Polynomial Regression (degree 2–20) for overfitting analysis
--Ridge Regression with manual alpha tuning
--GridSearchCV for optimal hyperparameters
--Improved Pipeline using:
+The notebook explores: 
+-Data Cleaning & Feature Selection  
+-Simple Linear Regression using CPU frequency 
+-Polynomial Regression (degree 2–20) for overfitting analysis 
+-Ridge Regression with manual alpha tuning 
+-GridSearchCV for optimal hyperparameters 
+-Improved Pipeline using: 
        StandardScaler
        OneHotEncoder
        ColumnTransformer
